@@ -16,6 +16,6 @@ this wedding this website is made using html css and bootstrap 5 , and also with
 3. make macro in google doc with linked in your file in google drive named "Guest List"
 4. make your own "disqus" chat room
 5. set your countdown date
-every setup content or etc can edit in index.html 
+*every setup content or etc can edit in index.html 
 
    
